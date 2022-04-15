@@ -17,7 +17,7 @@ pip install scikit-learn
 pip install matplotlib
 ```
 
-## Usage
+### Usage
 
 After installing requirement modules, all you need to do is to run main.ipynb
 
