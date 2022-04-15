@@ -12,4 +12,18 @@ Common methods for forecasting financial markets are usually time series methods
 ### Prerequisites
 ```sh
 pip install pandas
+pip install xgboost
+pip install scikit-learn
+pip install matplotlib
 ```
+
+## Usage
+
+After installing requirement modules, all you need to do is to run main.ipynb
+
+## License
+
+This project is licensed under the **MIT license**. Feel free to edit and distribute this template as you like.
+
+See [LICENSE](LICENSE) for more information.
+
